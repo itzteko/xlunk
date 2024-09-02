@@ -1,0 +1,49 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_023_Athena_Commando_F"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_356_Athena_Commando_F_Farmer"
+    ],
+    "price": 800
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_Snap"
+    ],
+    "price": 500
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaDance:EID_JanuaryBop"
+    ],
+    "price": 0
+  },
+  "daily5": {
+      "itemGrants": ["AthenaDance:EID_Shimmy"],
+      "price": 0
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaDance:EID_SandwichBop"
+    ],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaMusicPack:MusicPack_004_Holiday"
+    ],
+    "price": 0
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaMusicPack:MusicPack_009_StarPower"
+    ],
+    "price": 2000
+  }
+}
